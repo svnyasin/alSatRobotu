@@ -75,7 +75,7 @@ tetiklemesini bekle\
 19. Evet ise: Zamanlayıcıyı durdur ve veritabanını temizle\
 20. Bitir
 
-![](media\media\image2.png){width="6.3in" height="4.029166666666667in"}
+![](media/image2.png){width="6.3in" height="4.029166666666667in"}
 
 3.  **Hatalar ve Eksiklikler**
 
@@ -94,8 +94,8 @@ parite eklenerek program geliştirilebilir.
 
 4.  **Ekran Görüntüleri**
 
-![](media\media\image3.png){width="6.3in" height="3.417361111111111in"}
+![](media/image3.png){width="6.3in" height="3.417361111111111in"}
 
-![](media\media\image4.png){width="6.3in" height="3.417361111111111in"}
+![](media/image4.png){width="6.3in" height="3.417361111111111in"}
 
-![](media\media\image5.png){width="6.3in" height="3.089583333333333in"}
+![](media/image5.png){width="6.3in" height="3.089583333333333in"}
