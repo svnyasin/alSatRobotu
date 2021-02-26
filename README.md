@@ -43,7 +43,7 @@ c.  **Programın Tasarımı**
 
     i.  **Arayüz Tasarımı**
 
-![](media\media\image1.jpeg){width="5.5675667104111985in"
+![](media/image1.jpeg){width="5.5675667104111985in"
 height="2.1759995625546806in"}
 
 ii. **Algoritma Tasarımı**
